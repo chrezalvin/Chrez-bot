@@ -1,0 +1,16 @@
+{
+    "channelList": ["823744668670885899", "739696962097512452"],
+    "scheduledMessage": {
+        "title": "it's 5am in Japanese time!",
+        "description": [
+            "to do list: ",
+            "- potum dart",
+            "- daily achievement",
+            "- daily signup",
+            "- 30 day daily bonus"
+        ],
+        "footer":{
+            "text": "check the japanese time using command 'Chrez time'!"
+        }
+    }
+}

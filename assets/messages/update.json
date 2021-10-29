@@ -1,0 +1,7 @@
+{
+    "version": "1.0.3",
+    "news":[
+        "- now you can check current japanese time! type `Chrez time`",
+        "- bot now send message at 00:00 japanese time, won't miss your dart anymore!"
+    ]
+}
